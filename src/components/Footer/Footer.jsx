@@ -9,7 +9,7 @@ function Footer() {
         <Link>Contact</Link>
       </nav>
 
-      <p>Create By TechStack Solutions with Zeeshan</p>
+      <p>© 2026 MOIVEO • Made with ❤️ by ZHX Labs</p>
     </footer>
   );
 }
